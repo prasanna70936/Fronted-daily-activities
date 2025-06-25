@@ -1,1 +1,1 @@
-# Fronted-daily-activities
+# Frontend-daily-activities
